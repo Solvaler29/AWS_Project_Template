@@ -1,5 +1,5 @@
 # Documentación
-### Ejercicio 1: Crear una función lambda básica
+### [Ejercicio 1: Crear una función lambda básica](Solvaler29/AWS_Project_Template/docs/lab_learner/1_console_lambda.py)
 • Crea una función Lambda en Python que procese un evento sencillo y devuelva un mensaje de saludo.
 
 • Prueba la función Lambda usando la consola de AWS.
