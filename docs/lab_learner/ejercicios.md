@@ -1,7 +1,6 @@
 # Documentación
 ### Ejercicio 1: Crear una función lambda básica
-• Crea una función Lambda en Python que procese un evento sencillo y devuelva un mensaje
-de saludo.
+• Crea una función Lambda en Python que procese un evento sencillo y devuelva un mensaje de saludo.
 • Prueba la función Lambda usando la consola de AWS.
 
 ### Ejercicio 2: Configurar permisos IAM para la función Lambda
