@@ -27,7 +27,8 @@ jobs:
 
       - name: Deploy to production
         if: github.event_name == 'push' && github.event_ref == 'refs/heads/main'
-        run: echo "Deploying to production..."
+        run: |
+         echo "Deploying to production..."
           # Implement your deployment steps here
 
           # Your specific deployment steps for deploying a serverless application on AWS with Python
