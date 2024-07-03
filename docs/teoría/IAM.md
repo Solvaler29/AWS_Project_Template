@@ -1,5 +1,13 @@
 # Amazon IAM (Identity and Access Management)
-Servicio web de AWS que ayuda a controlar de manera segura el acceso a los recursos de AWS. Permite gestionar usuarios, grupos y permisos, garantizando que cada recurso en AWS tenga los accesos adecuados.
+La Gestión de Identidad y Acceso (IAM o IdAM para abreviar) es una forma de saber quién es un usuario y qué puede hacer. IAM es como el portero de un club nocturno con una lista de quién entra, quién no y quién entra al área VIP. IAM también se conoce como Gestión de Identidades (IdM).
+
+## Definición general
+
+En términos más técnicos, IAM es una forma de gestionar un conjunto de identidades digitales de usuarios y los privilegios asociados con cada identidad. Es un término amplio que cubre muchos productos diferentes que funcionan de la misma manera. En una organización, IAM puede ser un solo producto, un conjunto de procesos, productos de software, servicios en la nube y herramientas que brindan a los administradores visibilidad y control de los datos organizacionales involucrados para los usuarios individuales.
+* Crear y asignar un IAM Role con políticas detalladas para la función Lambda.
+* Configurar políticas de seguridad detalladas para la función Lambda.
+* Crear un rol IAM con permisos básicos para Lambda.
+* Asociar el rol IAM a la función Lambda.
 
 ## Control de Acceso Granular:
 
